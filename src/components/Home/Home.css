@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.home-container{
+  background-color: rgb(100, 86, 230);
+}
+.home-container-football{
+  margin-top: 40px;
+  height:100%;
+  width:100%;
+  box-sizing: border-box;
+ 
+}
+
+.header-img{
+
+  background-image:url("../../images/headerpic.png");
+  height: 350px;
+  
+}
